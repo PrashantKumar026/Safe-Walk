@@ -94,7 +94,10 @@ A quick-access section to the most essential national emergency contact numbers:
 ##  Developed By
 
 **Prashant Kumar**  
-GitHub: [@PrashantKumar026](https://github.com/PrashantKumar026)
+
+- 💼 LinkedIn :  [LinkedIn](https://www.linkedin.com/in/prashant-kumar-268484329)  
+- 🛠️ Github :  [GitHub](https://github.com/PrashantKumar026)  
+- 📧 Email: [prashantkumar02026@gmail.com](mailto:prashantkumar02026@gmail.com)
 
 ---
 
